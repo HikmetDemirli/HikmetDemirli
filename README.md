@@ -14,10 +14,10 @@
 
 
 <p align="center">
-  <a href="mailto:ilkinmestanov97@gmail.com" target="_blank">
+  <a href="mailto:" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-   <a href="https://www.linkedin.com/in/ilkin-mastanov-6a69b1252" target="_blank">
+   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!--   <a href="https://github.com/0x496C6B696E" target="_blank">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x496C6B696E&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HikmetDemirliE&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 
 - 🌐 Full Stack Development (MERN & Django)
 - 🎮 Game Development (Unity & Unreal Engine)
-- 🐧 Linux System Administration (mainly on Arch Linux)
+- 🐧 Linux System Administration (mainly on Ubuntu)
 - 🤖 Automation & Scripting
 
 
@@ -129,41 +129,30 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Pop!_OS-2E6CFF?style=for-the-badge&logo=pop-os&logoColor=white" alt="Pop!_OS"/>
 </p>
 
-### 🐧 Favorite Linux Distro
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" width="250" />
-</p>
-
-
-<p align="center" style="font-size:18px; font-style:italic; margin-top:-10px;">
-  <em>Arch Linux: Only the strong survive.</em>
-</p>
-
-
 ![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x496C6B696E&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=merko&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HikmetDemirli&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HikmetDemirli&theme=merko&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/0x496C6B696E">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&theme=merko" alt="Ilkin's GitHub Contribution"/>
+  <a href="https://github.com/HikmetDemirli">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HikmetDemirli&theme=merko" alt="Ilkin's GitHub Contribution"/>
   </a>
 </p>
 
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x496C6B696E&layout=donut&theme=merko&hide_border=true&langs_count=100" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikmetDemirli&layout=donut&theme=merko&hide_border=true&langs_count=100" alt="Top Languages" width="100%"/>
 </p>
 
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HikmetDemirli&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
